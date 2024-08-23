@@ -1,0 +1,4 @@
+-- AlterTable
+ALTER TABLE "files" ALTER COLUMN "judul" DROP DEFAULT,
+ALTER COLUMN "deskripsi" DROP DEFAULT,
+ALTER COLUMN "images" DROP DEFAULT;

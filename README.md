@@ -13,11 +13,11 @@ This project provides a simple API for uploading images to ImageKit.io using the
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/nafi0090/BEJS_FGABatch2_NafiHasballah_ChallengeChapter6
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repository
+   cd BEJS_FGABatch2_NafiHasballah_ChallengeChapter6
    ```
 3. Install the dependencies:
    ```bash
@@ -39,8 +39,8 @@ This project provides a simple API for uploading images to ImageKit.io using the
    - Request Body:
      ```json
      {
-       "title": "Image Title",
-       "description": "Image Description",
+       "judul": "Image Title",
+       "deskripsi": "Image Description",
        "images": "Base64 encoded image or file path"
      }
      ```
